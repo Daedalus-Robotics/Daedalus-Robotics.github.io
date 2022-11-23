@@ -1,3 +1,3 @@
 ## Daedalus Robotics
 
-[About](Daedalus-Robotics.github.io/about.md)
+[About](about.md)
