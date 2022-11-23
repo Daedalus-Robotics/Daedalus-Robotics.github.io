@@ -2,4 +2,4 @@
 
 ## Bell AVR (2022)
 
-- (https://www.roboticseducation.org/teams/bell-advanced-vertical-robotics/)
+- [Bell AVR](https://www.roboticseducation.org/teams/bell-advanced-vertical-robotics/)
